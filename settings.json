@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "185.129.85.182",
-    "port": 25611,
+    "ip": "9.205.27.223",
+    "port": 11428,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chaloadadal78"
+      "password": "chaloadaaadal78"
     },
     "anti-afk": {
       "enabled": true,
